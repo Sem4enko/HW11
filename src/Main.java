@@ -5,5 +5,5 @@ public class Main {
     FibonacciNumbers fibonacciNumbers = new FibonacciNumbers(50);
 
     Long output = -(fj.invoke(fibonacciNumbers));
-    System.out.println(output);dv
+    System.out.println(output);
 }
